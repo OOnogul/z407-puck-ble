@@ -69,6 +69,10 @@ Factory reset needs an explicit flag, and it's only available from the command l
 
 The commands and handshake come from freundTech's reverse-engineering notes: [logi-z407-reverse-engineering](https://github.com/freundTech/logi-z407-reverse-engineering).
 
+## Credits
+
+Code written with Kiro, an AI-powered IDE, with model Claude Haiku 5.5, under the direction of onogulo.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
